@@ -1,0 +1,15 @@
+D:\Semester\11th Sem\Dot Net\Mid\PersonManager\PMRepository\bin\Debug\PMRepository.dll.config
+D:\Semester\11th Sem\Dot Net\Mid\PersonManager\PMRepository\bin\Debug\PMRepository.dll
+D:\Semester\11th Sem\Dot Net\Mid\PersonManager\PMRepository\bin\Debug\PMRepository.pdb
+D:\Semester\11th Sem\Dot Net\Mid\PersonManager\PMRepository\bin\Debug\EntityFramework.dll
+D:\Semester\11th Sem\Dot Net\Mid\PersonManager\PMRepository\bin\Debug\EntityFramework.SqlServer.dll
+D:\Semester\11th Sem\Dot Net\Mid\PersonManager\PMRepository\bin\Debug\PMEntity.dll
+D:\Semester\11th Sem\Dot Net\Mid\PersonManager\PMRepository\bin\Debug\PMEntity.pdb
+D:\Semester\11th Sem\Dot Net\Mid\PersonManager\PMRepository\bin\Debug\PMEntity.dll.config
+D:\Semester\11th Sem\Dot Net\Mid\PersonManager\PMRepository\bin\Debug\EntityFramework.xml
+D:\Semester\11th Sem\Dot Net\Mid\PersonManager\PMRepository\bin\Debug\EntityFramework.SqlServer.xml
+D:\Semester\11th Sem\Dot Net\Mid\PersonManager\PMRepository\obj\Debug\PMRepository.csprojAssemblyReference.cache
+D:\Semester\11th Sem\Dot Net\Mid\PersonManager\PMRepository\obj\Debug\PMRepository.csproj.CoreCompileInputs.cache
+D:\Semester\11th Sem\Dot Net\Mid\PersonManager\PMRepository\obj\Debug\PMRepository.csproj.CopyComplete
+D:\Semester\11th Sem\Dot Net\Mid\PersonManager\PMRepository\obj\Debug\PMRepository.dll
+D:\Semester\11th Sem\Dot Net\Mid\PersonManager\PMRepository\obj\Debug\PMRepository.pdb
