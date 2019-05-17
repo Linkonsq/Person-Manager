@@ -10,3 +10,15 @@ D:\Semester\11th Sem\Dot Net\Mid\PersonManager\PMEntity\obj\Debug\PMEntity.cspro
 D:\Semester\11th Sem\Dot Net\Mid\PersonManager\PMEntity\obj\Debug\PMEntity.csproj.CopyComplete
 D:\Semester\11th Sem\Dot Net\Mid\PersonManager\PMEntity\obj\Debug\PMEntity.dll
 D:\Semester\11th Sem\Dot Net\Mid\PersonManager\PMEntity\obj\Debug\PMEntity.pdb
+D:\Programming\C#\Web Development\Person-Manager\PMEntity\bin\Debug\PMEntity.dll.config
+D:\Programming\C#\Web Development\Person-Manager\PMEntity\bin\Debug\PMEntity.dll
+D:\Programming\C#\Web Development\Person-Manager\PMEntity\bin\Debug\PMEntity.pdb
+D:\Programming\C#\Web Development\Person-Manager\PMEntity\bin\Debug\EntityFramework.dll
+D:\Programming\C#\Web Development\Person-Manager\PMEntity\bin\Debug\EntityFramework.SqlServer.dll
+D:\Programming\C#\Web Development\Person-Manager\PMEntity\bin\Debug\EntityFramework.xml
+D:\Programming\C#\Web Development\Person-Manager\PMEntity\bin\Debug\EntityFramework.SqlServer.xml
+D:\Programming\C#\Web Development\Person-Manager\PMEntity\obj\Debug\PMEntity.csprojAssemblyReference.cache
+D:\Programming\C#\Web Development\Person-Manager\PMEntity\obj\Debug\PMEntity.csproj.CoreCompileInputs.cache
+D:\Programming\C#\Web Development\Person-Manager\PMEntity\obj\Debug\PMEntity.csproj.CopyComplete
+D:\Programming\C#\Web Development\Person-Manager\PMEntity\obj\Debug\PMEntity.dll
+D:\Programming\C#\Web Development\Person-Manager\PMEntity\obj\Debug\PMEntity.pdb

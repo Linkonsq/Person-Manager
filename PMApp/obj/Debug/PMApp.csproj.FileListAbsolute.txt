@@ -29,3 +29,34 @@ D:\Semester\11th Sem\Dot Net\Mid\PersonManager\PMApp\obj\Debug\PMApp.csproj.Core
 D:\Semester\11th Sem\Dot Net\Mid\PersonManager\PMApp\obj\Debug\PMApp.csproj.CopyComplete
 D:\Semester\11th Sem\Dot Net\Mid\PersonManager\PMApp\obj\Debug\PMApp.dll
 D:\Semester\11th Sem\Dot Net\Mid\PersonManager\PMApp\obj\Debug\PMApp.pdb
+D:\Programming\C#\Web Development\Person-Manager\PMApp\bin\PMApp.dll.config
+D:\Programming\C#\Web Development\Person-Manager\PMApp\bin\PMApp.dll
+D:\Programming\C#\Web Development\Person-Manager\PMApp\bin\PMApp.pdb
+D:\Programming\C#\Web Development\Person-Manager\PMApp\bin\EntityFramework.dll
+D:\Programming\C#\Web Development\Person-Manager\PMApp\bin\EntityFramework.SqlServer.dll
+D:\Programming\C#\Web Development\Person-Manager\PMApp\bin\Microsoft.Web.Infrastructure.dll
+D:\Programming\C#\Web Development\Person-Manager\PMApp\bin\PMEntity.dll
+D:\Programming\C#\Web Development\Person-Manager\PMApp\bin\PMRepository.dll
+D:\Programming\C#\Web Development\Person-Manager\PMApp\bin\System.Web.Helpers.dll
+D:\Programming\C#\Web Development\Person-Manager\PMApp\bin\System.Web.Mvc.dll
+D:\Programming\C#\Web Development\Person-Manager\PMApp\bin\System.Web.Razor.dll
+D:\Programming\C#\Web Development\Person-Manager\PMApp\bin\System.Web.Webpages.Deployment.dll
+D:\Programming\C#\Web Development\Person-Manager\PMApp\bin\System.Web.Webpages.dll
+D:\Programming\C#\Web Development\Person-Manager\PMApp\bin\System.Web.Webpages.Razor.dll
+D:\Programming\C#\Web Development\Person-Manager\PMApp\bin\PMEntity.pdb
+D:\Programming\C#\Web Development\Person-Manager\PMApp\bin\PMEntity.dll.config
+D:\Programming\C#\Web Development\Person-Manager\PMApp\bin\PMRepository.pdb
+D:\Programming\C#\Web Development\Person-Manager\PMApp\bin\PMRepository.dll.config
+D:\Programming\C#\Web Development\Person-Manager\PMApp\bin\EntityFramework.xml
+D:\Programming\C#\Web Development\Person-Manager\PMApp\bin\EntityFramework.SqlServer.xml
+D:\Programming\C#\Web Development\Person-Manager\PMApp\bin\System.Web.Razor.xml
+D:\Programming\C#\Web Development\Person-Manager\PMApp\bin\System.Web.Webpages.xml
+D:\Programming\C#\Web Development\Person-Manager\PMApp\bin\System.Web.Webpages.Deployment.xml
+D:\Programming\C#\Web Development\Person-Manager\PMApp\bin\System.Web.Webpages.Razor.xml
+D:\Programming\C#\Web Development\Person-Manager\PMApp\bin\System.Web.Helpers.xml
+D:\Programming\C#\Web Development\Person-Manager\PMApp\bin\System.Web.Mvc.xml
+D:\Programming\C#\Web Development\Person-Manager\PMApp\obj\Debug\PMApp.csprojAssemblyReference.cache
+D:\Programming\C#\Web Development\Person-Manager\PMApp\obj\Debug\PMApp.csproj.CoreCompileInputs.cache
+D:\Programming\C#\Web Development\Person-Manager\PMApp\obj\Debug\PMApp.csproj.CopyComplete
+D:\Programming\C#\Web Development\Person-Manager\PMApp\obj\Debug\PMApp.dll
+D:\Programming\C#\Web Development\Person-Manager\PMApp\obj\Debug\PMApp.pdb

@@ -13,3 +13,18 @@ D:\Semester\11th Sem\Dot Net\Mid\PersonManager\PMRepository\obj\Debug\PMReposito
 D:\Semester\11th Sem\Dot Net\Mid\PersonManager\PMRepository\obj\Debug\PMRepository.csproj.CopyComplete
 D:\Semester\11th Sem\Dot Net\Mid\PersonManager\PMRepository\obj\Debug\PMRepository.dll
 D:\Semester\11th Sem\Dot Net\Mid\PersonManager\PMRepository\obj\Debug\PMRepository.pdb
+D:\Programming\C#\Web Development\Person-Manager\PMRepository\bin\Debug\PMRepository.dll.config
+D:\Programming\C#\Web Development\Person-Manager\PMRepository\bin\Debug\PMRepository.dll
+D:\Programming\C#\Web Development\Person-Manager\PMRepository\bin\Debug\PMRepository.pdb
+D:\Programming\C#\Web Development\Person-Manager\PMRepository\bin\Debug\EntityFramework.dll
+D:\Programming\C#\Web Development\Person-Manager\PMRepository\bin\Debug\EntityFramework.SqlServer.dll
+D:\Programming\C#\Web Development\Person-Manager\PMRepository\bin\Debug\PMEntity.dll
+D:\Programming\C#\Web Development\Person-Manager\PMRepository\bin\Debug\PMEntity.pdb
+D:\Programming\C#\Web Development\Person-Manager\PMRepository\bin\Debug\PMEntity.dll.config
+D:\Programming\C#\Web Development\Person-Manager\PMRepository\bin\Debug\EntityFramework.xml
+D:\Programming\C#\Web Development\Person-Manager\PMRepository\bin\Debug\EntityFramework.SqlServer.xml
+D:\Programming\C#\Web Development\Person-Manager\PMRepository\obj\Debug\PMRepository.csprojAssemblyReference.cache
+D:\Programming\C#\Web Development\Person-Manager\PMRepository\obj\Debug\PMRepository.csproj.CoreCompileInputs.cache
+D:\Programming\C#\Web Development\Person-Manager\PMRepository\obj\Debug\PMRepository.csproj.CopyComplete
+D:\Programming\C#\Web Development\Person-Manager\PMRepository\obj\Debug\PMRepository.dll
+D:\Programming\C#\Web Development\Person-Manager\PMRepository\obj\Debug\PMRepository.pdb
